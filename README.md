@@ -16,10 +16,6 @@ A colorful and user-friendly Expense Tracker desktop application developed using
 - Python 3
 - Tkinter
 
-## 📷 Screenshot
-
-(Add your application screenshot here.)
-
 ## 🚀 How to Run
 
 1. Clone the repository
